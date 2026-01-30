@@ -1,0 +1,14 @@
+# Datasetler
+Verisetleri/
+
+# Ses dosyaları
+*.wav
+*.mp3
+
+# Model dosyaları
+*.h5
+*.pt
+*.pkl
+
+# Python cache
+__pycache__/
