@@ -63,7 +63,3 @@ Elde edilen sonuçlara göre **LSTM modeli**, uzun dönem bağımlılıkları da
 Proje çalışır durumdadır ve geliştirilmeye açıktır.  
 İlerleyen aşamalarda CNN veya Transformer tabanlı modeller ile
 karşılaştırmalar yapılabilir.
-
-
-👤 **Geliştirici**  
-- GitHub: (kullanıcı adını buraya ekleyebilirsin)
